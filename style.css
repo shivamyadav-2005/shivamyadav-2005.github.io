@@ -409,3 +409,28 @@ nav .fa-solid{
     margin-top: -40px;
     display: block;
 }  
+/* Certifications */
+
+#certifications{
+padding:60px 0;
+}
+
+.cert-list{
+margin-top:30px;
+list-style:none;
+font-size:18px;
+}
+
+.cert-list li{
+margin-bottom:15px;
+padding:15px;
+background:#262626;
+border-radius:8px;
+}
+
+/* Cloud project images */
+
+.work img{
+height:250px;
+object-fit:cover;
+}
